@@ -2,24 +2,35 @@
 
 Magnetic Models of Apple's (iPhone) MagSafe Magnet Array (excluding the clocking magnet)
 
-### Files in this repo
+## Files in this repo
 
-__p5.js version__
+### __p5.js version__
+
+![a_p5](a_p5.gif)
+
 * hosted via GitHub pages [here](https://kavinaidoo.github.io/magneticallymodellingmagsafe/)
 * 2D model, interactive - used to visualise forces
 
-__Magpylib version__
+### __Magpylib version__
+
+![a_magpylib_1](a_magpylib_1.gif)
+
+![a_magpylib_2](a_magpylib_2.gif)
+
 * [Magnetically_Modelling_MagSafe_magpylib.ipynb](https://github.com/kavinaidoo/magneticallymodellingmagsafe/blob/main/Magnetically_Modelling_MagSafe_magpylib.ipynb) - Magnetic model using [magpylib](https://github.com/magpylib/magpylib)
 * 3D model - used to visualise/calculate magnetic fields
 * Only tested with Google Colab
 
-__matplotlib version__
+### __matplotlib version__
+
+![a_matplotlib](a_matplotlib.gif)
+
 * [Magnetically_Modelling_MagSafe_2D_Animation.ipynb](https://github.com/kavinaidoo/magneticallymodellingmagsafe/blob/main/Magnetically_Modelling_MagSafe_2D_Animation.ipynb)
 * 2D Model - used to visualise forces
 * uses a hacky/ugly clear_output animation method
 * Superseded by p5.js version
 
-### How to have a play
+## How to have a play
 
 To use the p5.js version
 * [Click here](https://kavinaidoo.github.io/magneticallymodellingmagsafe/)
@@ -33,7 +44,7 @@ To use the magpylib and matplotlib versions, import into Google Colab:
 * Click GitHub
 * Paste this repo's URL into the search box and choose the relevant ipynb file
 
-### More Info
+## More Info
 
 Read this for more context, fun animations etc ->  https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/
 
